@@ -1,4 +1,0 @@
-target?main.cpp~
-type?console~
-incl?C:\path\to\includes&C:\another\path\to\includes&
-lib?D:\path\to\libs&D:\another\path\to\libs&
