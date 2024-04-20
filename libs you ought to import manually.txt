@@ -1,0 +1,8 @@
+Libraries to `#pragma comment` to in case of linker errors:
+
+user32.lib
+gdi32.lib
+winmm.lib
+comdlg32.lib
+
+bass.lib
